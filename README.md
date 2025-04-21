@@ -7,7 +7,7 @@
 
 Bring back nostalgia by restoring the **classic PlayStation Network category icon** on your PS3's XMB. This guide helps you bring back the iconic orb-style PSN logo instead of the newer PlayStation?Network text.
 
-> Made with love by me (NFSHubster),released before on also by myself [PSX-Place](https://www.psx-place.com/resources/how-to-restore-the-old-classic-psn-logo-on-your-ps3-a-step-by-step-guide.1432/)
+> Made with love by me (NFSHubster),released before on [PSX-Place](https://www.psx-place.com/resources/how-to-restore-the-old-classic-psn-logo-on-your-ps3-a-step-by-step-guide.1432/) also by me
 
 ---
 
